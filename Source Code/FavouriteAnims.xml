@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<PedAnims>
+	<Anim dict="anim@amb@nightclub@dancers@crowddance_groups_transitions@from_low_intensity" name="trans_dance_crowd_li_to_mi_09_v1_male^4" />
+	<Anim dict="anim@amb@nightclub@dancers@crowddance_single_props_transitions@from_med_intensity" name="trans_dance_prop_mi_to_hi_11_v1_male^1" />
+	<Anim dict="anim@amb@nightclub@dancers@club_ambientpeds@med-hi_intensity" name="mi-hi_amb_club_12_v1_male^4" />
+	<Anim dict="anim@amb@nightclub@dancers@crowddance_facedj_transitions@" name="trans_dance_facedj_mi_to_hi_09_v1_female^3" />
+	<Anim dict="anim@amb@nightclub@dancers@crowddance_single_props@med_intensity" name="mi_dance_prop_17_v1_female^3" />
+	<Anim dict="anim@amb@nightclub@dancers@crowddance_groups_transitions@from_med_intensity" name="trans_dance_crowd_mi_to_li_12_v1_female^5" />
+	<Anim dict="anim@amb@nightclub@dancers@crowddance_facedj@hi_intensity" name="hi_dance_facedj_15_v1_male^6" />
+	<Anim dict="anim@amb@nightclub@dancers@crowddance_facedj_transitions@from_hi_intensity" name="trans_dance_facedj_hi_to_li_09_v1_female^6" />
+	<Anim dict="anim@amb@nightclub@dancers@crowddance_groups@hi_intensity" name="hi_dance_crowd_13_v2_male^4" />
+	<Anim dict="anim@amb@nightclub@dancers@crowddance_facedj@hi_intensity" name="hi_dance_facedj_15_v2_male^4" />
+	<Anim dict="anim@amb@nightclub@dancers@crowddance_groups@hi_intensity" name="hi_dance_crowd_17_v2_male^5" />
+	<Anim dict="anim@amb@nightclub@dancers@crowddance_facedj@hi_intensity" name="hi_dance_facedj_17_v2_female^3" />
+	<Anim dict="anim@amb@nightclub@dancers@crowddance_groups@hi_intensity" name="hi_dance_crowd_13_v2_male^6" />
+	<Anim dict="anim@amb@nightclub@dancers@crowddance_single_props@hi_intensity" name="hi_dance_prop_17_v1_female^5" />
+	<Anim dict="anim@amb@nightclub@dancers@crowddance_single_props@hi_intensity" name="hi_dance_prop_15_v1_male^6" />
+	<Anim dict="anim@amb@nightclub@dancers@crowddance_single_props@hi_intensity" name="hi_dance_prop_11_v1_female^6" />
+	<Anim dict="anim@amb@nightclub@dancers@tale_of_us_entourage@" name="mi_dance_prop_13_v2_male^4" />
+	<Anim dict="anim@amb@nightclub@lazlow@hi_dancefloor@" name="dancecrowd_hi_05_dlg_havingit_laz" />
+	<Anim dict="anim@amb@nightclub@lazlow@hi_dancefloor@" name="dancecrowd_trans_07_hi_to_mi_laz" />
+	<Anim dict="anim@amb@nightclub@lazlow@hi_podium@" name="danceidle_hi_11_buttwiggle_b_laz" />
+	<Anim dict="anim@amb@nightclub@lazlow@hi_podium@" name="danceidle_hi_15_crazyrobot_laz" />
+	<Anim dict="anim@amb@nightclub@mini@dance@dance_paired@dance_b@" name="ped_b_dance_idle" />
+	<Anim dict="anim@amb@nightclub@mini@dance@dance_paired@dance_d@" name="ped_b_dance_idle" />
+	<Anim dict="anim@amb@nightclub@mini@dance@dance_paired@dance_f@" name="ped_b_dance_idle" />
+	<Anim dict="anim@amb@nightclub@mini@dance@dance_paired@dance_h@" name="ped_b_dance_idle" />
+	<Anim dict="anim@amb@nightclub@mini@dance@dance_paired@dance_j@" name="ped_b_dance_idle" />
+	<Anim dict="anim@amb@nightclub@mini@dance@dance_solo@female@var_b@" name="med_center_up" />
+	<Anim dict="anim@amb@nightclub@mini@dance@dance_solo@shuffle@" name="high_left_up" />
+	<Anim dict="anim@amb@nightclub@mini@dance@dance_solo@shuffle@" name="med_center" />
+	<Anim dict="anim@amb@nightclub@mini@dance@dance_solo@techno_karate@" name="high_left_up" />
+	<Anim dict="anim@amb@nightclub@mini@dance@dance_solo@techno_monkey@" name="med_center" />
+	<Anim dict="anim@amb@nightclub@mini@dance@dance_solo@techno_monkey@" name="high_left_up" />
+</PedAnims>
